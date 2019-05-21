@@ -13,9 +13,10 @@
   "keywords": [
     "scss",
     "sass",
-    "power",
-    "scss-mixins",
+    "scss-function",
+    "sass-function",
     "math"
+    "power",
   ],
   "license": "MIT",
   "main": "_pow.scss",
