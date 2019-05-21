@@ -1,7 +1,5 @@
 # SASS pow()
 
-![sass-pow]()
-
 Power² function for SASS/SCSS.
 
 [![Ebert](https://ebertapp.io/github/fiskhandlarn/sass-pow.svg)](https://ebertapp.io/github/fiskhandlarn/sass-pow)
