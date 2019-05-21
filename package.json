@@ -15,8 +15,8 @@
     "sass",
     "scss-function",
     "sass-function",
-    "math"
-    "power",
+    "math",
+    "power"
   ],
   "license": "MIT",
   "main": "_pow.scss",
