@@ -18,7 +18,7 @@
     "math"
   ],
   "license": "MIT",
-  "main": "sass-pow.scss",
+  "main": "_pow.scss",
   "name": "@fiskhandlarn/sass-pow",
   "repository": {
     "type": "git",
