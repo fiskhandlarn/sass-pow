@@ -2,7 +2,7 @@
 
 ![sass-pow]()
 
-Power function for SASS/SCSS.
+Power² function for SASS/SCSS.
 
 [![Ebert](https://ebertapp.io/github/fiskhandlarn/sass-pow.svg)](https://ebertapp.io/github/fiskhandlarn/sass-pow)
 [![Total Downloads](https://img.shields.io/npm/dt/@fiskhandlarn/sass-pow.svg)](https://www.npmjs.com/package/@fiskhandlarn/sass-pow)
