@@ -1,0 +1,31 @@
+{
+  "author": {
+    "name": "Oskar Joelson",
+    "email": "oskar@joelson.org"
+  },
+  "bugs": {
+    "url": "https://github.com/fiskhandlarn/sass-pow/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Power² function for SASS/SCSS.",
+  "homepage": "https://github.com/fiskhandlarn/sass-pow#readme",
+  "keywords": [
+    "scss",
+    "sass",
+    "power",
+    "scss-mixins",
+    "math"
+  ],
+  "license": "MIT",
+  "main": "sass-pow.scss",
+  "name": "@fiskhandlarn/sass-pow",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fiskhandlarn/sass-pow.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.0"
+}
