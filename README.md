@@ -31,4 +31,4 @@ foo {
 
 ## Credits
 
-Copied from (CSS-Tricks)[https://css-tricks.com/snippets/sass/power-function/]
+Copied from [CSS-Tricks](https://css-tricks.com/snippets/sass/power-function/)
