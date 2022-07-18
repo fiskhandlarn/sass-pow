@@ -1,3 +1,5 @@
+Deprecated, you should use [`math.pow`](https://sass-lang.com/documentation/modules/math#pow) instead.
+
 # SASS pow()
 
 Power² function for SASS/SCSS.
