@@ -4,7 +4,6 @@ Deprecated, you should use [`math.pow`](https://sass-lang.com/documentation/modu
 
 Power² function for SASS/SCSS.
 
-[![Ebert](https://ebertapp.io/github/fiskhandlarn/sass-pow.svg)](https://ebertapp.io/github/fiskhandlarn/sass-pow)
 [![Total Downloads](https://img.shields.io/npm/dt/@fiskhandlarn/sass-pow.svg)](https://www.npmjs.com/package/@fiskhandlarn/sass-pow)
 [![Latest Version](https://img.shields.io/npm/v/@fiskhandlarn/sass-pow.svg)](https://www.npmjs.com/package/@fiskhandlarn/sass-pow?activeTab=versions)
 [![License](https://img.shields.io/npm/l/@fiskhandlarn/sass-pow.svg)](https://www.npmjs.com/package/@fiskhandlarn/sass-pow)
